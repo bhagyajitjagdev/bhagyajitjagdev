@@ -1,5 +1,49 @@
-# 💫 About Me:
-👋 Hi there! I'm a Technical Lead at Intelekt AI. My journey in tech has been fueled by a passion for solving complex problems and a love for learning new things.<br><br>🔧 Skills and Expertise:<br><br>Programming Languages: JavaScript (JS), TypeScript (TS), Python, C, C++, Java, Rust (currently learning)<br>Frameworks and Tools: Node.js, NestJS, Angular, React, FastAPI<br>DevOps and Databases: AWS, Docker, MongoDB, MySQL, PostgreSQL, Redis<br><br>🔍 Focus Areas:<br>I'm a full-stack developer with a strong tilt towards backend development. I'm proficient in using NestJS and FastAPI to build scalable and efficient applications.<br><br>🚀 Projects:<br>While I can't share all my projects due to confidentiality, you can check out my experimental project on GitHub: NestJS Socket Redis. It showcases how to scale NestJS applications with WebSockets using Redis and Socket.io.<br><br>🎸 Hobbies:<br>In my free time, I love to play the guitar, learn new programming languages, and dabble in photo editing. It's a great way to unwind and keep the creative juices flowing!<br><br>📚 Learning and Inspiration:<br>I stay updated with the latest in tech by following Medium.com and various YouTube channels. These platforms offer hands-on insights and fast updates on new technologies and trends.
+## 👋 Hey, I’m Bhagyajit!
+
+I build backend systems that *actually work* — and I genuinely enjoy doing it.
+
+I’m a Senior Backend Engineer & Technical Lead based in Bangalore, currently building scalable APIs and distributed systems at Intelekt AI.
+
+Some days I’m debugging real-time voice pipelines. Other days I’m designing event-driven workflows with Kafka, Redis, or Temporal. I like systems that are clean, resilient, and built to survive real-world traffic.
+
+---
+
+### 🛠️ What I Work With
+
+- **Backend:** NestJS, FastAPI, Node.js, Python  
+- **Architecture:** Microservices, event-driven systems, real-time workflows  
+- **Messaging & Orchestration:** Kafka, BullMQ, Temporal  
+- **Data:** PostgreSQL (pgvector), MongoDB, Redis  
+- **AI Integrations:** LLMs, embedding retrieval, NLP pipelines  
+
+---
+
+### ⭐ Open Source I Care About
+
+- **authfort** – A Python authentication/authorization library I’m building to make auth less painful  
+- **nestjs-socket-redis** – Scaling WebSockets with Redis the practical way  
+- **NestJS auth & OAuth examples** – Real-world patterns I use in production  
+
+I try to build things that are reusable and understandable — not just clever.
+
+---
+
+### ✍️ Sharing & Learning
+
+I write about backend architecture, authentication patterns, and scalable API design.  
+Mostly things I wish I had when I started.
+
+---
+
+### 🎸 Outside of Code
+
+- Playing guitar  
+- Exploring Rust and low-level systems  
+- Photo editing & random creative experiments  
+
+---
+
+If you like clean backend systems, distributed architecture, or building tools that scale — we’ll probably get along.
 
 
 ## 🌐 Socials:
