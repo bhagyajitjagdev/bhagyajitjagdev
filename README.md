@@ -21,7 +21,7 @@ Some days I’m debugging real-time voice pipelines. Other days I’m designing 
 ### ⭐ Open Source I Care About
 
 - **authfort** – A Python authentication/authorization library I’m building to make auth less painful  
-- **nestjs-socket-redis** – Scaling WebSockets with Redis the practical way  
+- **clipshot** – A native Wayland screenshot tool for GNOME
 - **NestJS auth & OAuth examples** – Real-world patterns I use in production  
 
 I try to build things that are reusable and understandable — not just clever.
